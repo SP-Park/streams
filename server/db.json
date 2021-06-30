@@ -4,6 +4,24 @@
       "title": "my stream",
       "description": "11",
       "id": 1
+    },
+    {
+      "title": "I create this stream",
+      "description": "made by me",
+      "userId": "116383788976398424013",
+      "id": 2
+    },
+    {
+      "title": "programmatic navgation",
+      "description": "See",
+      "userId": "116383788976398424013",
+      "id": 3
+    },
+    {
+      "title": "refactoting reuse",
+      "description": "succeeded PATCH",
+      "userId": "116383788976398424013",
+      "id": 4
     }
   ]
 }
